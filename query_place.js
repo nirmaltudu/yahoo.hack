@@ -26,24 +26,39 @@ var buildfn = function (loc) {
 	    var l = new Location(loc, lat, lng);
 	    //console.log(l);
 	    var all_stations = get_rail_coords();
-	    var dist = get_nearest(l, all_stations);
+	    var dist = get_nearest(l, all_stations, 'rail');
 	    console.log("Checking : " + loc);
 	    console.log("Nearest station: " + dist[1].name + "; distance: " + dist[0]);
 	    var all_airports = get_airport_coords();
-	    var dist1 = get_nearest(l, all_airports);
+	    var dist1 = get_nearest(l, all_airports, 'airport');
 	    //console.log(dist1);
 	    console.log("Nearest airport: " + dist1[1].name + "; distance: " + dist1[0]);
 	};
 	return onComplete;
 };
 
-var get_nearest = function(loc, points) {
+var get_nearest = function(loc, points, pt_type) {
     //console.log(loc.lat);
     //console.log(loc.lng);
     var nearestPoint = null;
     var minDist = null;
     for (i in points) {
-	pt = points[i];
+	var pt = points[i];
+	var city = null;
+	if (pt_type == 'rail') {
+	    city = pt.name.toString('utf-8').trim();
+	} else {
+	    city = pt.city.toString('utf-8').trim();
+	}
+	if (city.toLowerCase() == loc.name.toLowerCase()) {
+	    //console.log(city.toLowerCase);
+	    //console.log(loc.name.toLowerCase);
+	    //var d = dist.getDistance(loc, pt);
+	    return [0, pt];
+	}
+    }
+    for (i in points) {
+	var pt = points[i];
 	var d = dist.getDistance(loc, pt);
 	if (minDist == null) {
 	    minDist = d;
