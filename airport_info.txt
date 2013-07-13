@@ -1,0 +1,79 @@
+Port Blair	Vir Savarkar Airport (Port Blair Airport)	IXZ	11.698610	92.709976
+Hyderabad	Hyderabad International Airport (Rajiv Gandhi    International Airport)	HYD	17.508829	78.434578
+Puttaparthi	Sri Sathya Sai Airport	BEK	14.199350	77.796692
+Tirumala - Tirupati (Tirupathi)	Tirupati Airport	TIR	13.633800	79.565002
+Vijayawada (Vijaywada)	Vijayawada Airport (Vijaywada Airport)	VGA	16.518860	80.813362
+Visakhapatnam (Vishakhapatnam)	Visakhapatnam Airport (Vizag Airport)	VTZ	17.715290	83.222031
+Pasighat (Passighat)	Pasighat Airport (Passighat Airport)	IXT	28.064671	95.305328
+Tezu	Tezu Airport	TEI	27.913950	96.192123
+Dibrugarh	Dibrugarh Airport	DIB	27.491650	95.024803
+Guwahati	Lokpriya Gopinath Bordoloi International    Airport (Guwahati Air Force Base, Guwahati Int'l)	GAU	26.087721	91.559013
+Jorhat	Jorhat Airport (Rowriah Airport)	JRH	26.730499	94.171059
+Silchar	Silchar Airport (Kumbhirgram Airport,    Kumbhirgram Air Force Base)	IXS	24.975140	92.510094
+Patna	Lok Nayak Jayaprakash Airport (Patna Airport)	PAT	25.577490	85.079361
+Gaya	Gaya Airport	GAY	24.751221	84.950333
+Chandigarh	Chandigarh Airport / Chandigarh Air Force    Base[4]	IXC	30.679859	76.803093
+Raipur	Raipur Airport (Raipur Aerodrome)	RPR	21.159220	81.751038
+Daman	Daman Airport	NMB	20.417160	72.850723
+Diu	Diu Airport	DIU	20.745090	70.921783
+New Delhi	Indira Gandhi International Airport (Palam Air    Force Base)	DEL	28.502501	77.070702
+Dabolim / Vasco da Gama	Dabolim Airport (Goa Airport) / Dabolim Navy    Airbase	GOI	15.388310	73.840149
+Ahmedabad	Sardar Vallabhbhai Patel International Airport	AMD	23.030199	72.569870
+Bhavnagar	Bhavnagar Airport	BHU	21.747789	72.181091
+Bhuj	Bhuj Airport / Bhuj Rudra Mata Air Force Base	BHJ	23.269951	69.653229
+Jamnagar	Jamnagar Airport / Jamnagar Air Force Base	JGA	22.451260	70.014908
+Porbandar	Porbandar Airport	PBD	21.648460	69.677513
+Rajkot	Rajkot Airport	RAJ	22.289721	70.793182
+Surat	Surat Airport	STV	21.165131	72.836182
+Vadodara (Baroda)	Vadodara Airport (Civil Airport Harvi) /    Vadodara Air Force Base	BDQ	22.354330	73.202827
+Kangra / Dharamsala	Gaggal Airport (Kangra Airport)	DHM	32.253971	76.252197
+Kullu / Manali	Bhuntar Airport (Kullu Manali Airport)	KUU	31.880421	77.392632
+Shimla	Shimla Airport	SLV	31.108219	77.113129
+Jammu	Jammu Airport (Satwari Airport)	IXJ	27.254219	82.864830
+Jammu	Jammu Airport (Satwari Airport)	IXJ	27.262220	77.320618
+Leh	Leh Kushok Bakula Rimpochee Airport / Leh Air    Force Base[9]	IXL	34.114128	77.573830
+Srinagar	Srinagar Airport / Srinagar Air Force Base[10]	SXR	33.974911	74.784492
+Jamshedpur	Jamshedpur Airport	IXW	22.798679	86.183960
+Ranchi	Birsa Munda Airport (Ranchi Airport)	IXR	23.278440	85.335243
+Bangalore	Bengaluru International Airport	BLR	13.249250	77.713440
+Bangalore	Jakkur Airfield		-26.188129	28.314550
+Bangalore	Jakkur Airfield		56.229431	-3.161820
+Mangalore	Mangalore International Airport	IXE	12.969990	74.908691
+Mysore	Mandkalli Airport	MYQ	7.565870	-69.149658
+Kochi (Cochin) / Nedumbassery	Cochin International Airport (Nedumbassery    Airport)	COK	9.931200	76.256500
+Kozhikode (Calicut)	Calicut International Airport (Karipur    Airport)	CCJ	11.136880	75.924118
+Thiruvananthapuram	Trivandrum International Airport	TRV	8.505070	76.944481
+Agatti Island	Agatti Aerodrome	AGX	10.077740	73.640732
+Bhopal	Bhopal Airport (Bairagarh Airport, Raja Bhoj    Airport)	BHO	23.315359	77.314636
+Gwalior	Gwalior Airport / Maharajpur Air Force Base	GWL	26.313400	78.278427
+Indore	Devi Ahilyabai Holkar International Airport	IDR	22.705429	75.780296
+Jabalpur	Jabalpur Airport	JLR	23.192020	80.076027
+Khajuraho	Khajuraho Airport	HJR	24.850349	79.927650
+Aurangabad	Aurangabad Airport (Chikkalthana Airport)	IXU	19.835449	75.363823
+Mumbai (Bombay)	Chhatrapati Shivaji International Airport	BOM	19.076191	72.875877
+Nagpur	Dr. Babasaheb Ambedkar International Airport /    Sonegaon Air Force Base	NAG	21.050871	79.044067
+Pune (Poona)	Pune International Airport (Lohegaon Airport)    / Lohegaon Air Force Base	PNQ	18.627150	73.951523
+Imphal	Imphal Airport (Tulihal Airport)	IMF	24.774771	93.904716
+Shillong	Shillong Airport (Barapani Airport, Umroi    Airport)	SHL	25.721399	92.016342
+Aizawl	Lengpui Airport / Turial Air Force Base	AJL	23.728729	92.845970
+Dimapur	Dimapur Airport (Dimapur Air Force Base)	DMU	25.879650	93.775261
+Bhubaneswar	Biju Patnaik Airport (Bhubaneswar Airport)	BBI	20.233271	85.788033
+Puducherry	Pondicherry Airport[23]	PNY	12.012100	79.796272
+Amritsar	Raja Sansi International Airport (Amritsar    International Airport) / Amritsar Airbase[26]	ATQ	31.718719	74.792961
+Jaipur	Jaipur Airport (Sanganer, Sanganeer Airport)	JAI	26.767750	75.860023
+Jaisalmer	Jaisalmer Airport	JSA	26.928030	70.868973
+Jodhpur	Jodhpur Airport / Jodhpur Air Force Base	JDH	26.210770	73.069458
+Udaipur	Udaipur Airport (Maharana Pratap Airport)	UDR	24.609301	73.771339
+Chennai	Chennai International Airport (Meenambakkam    Airport)	MAA	12.978670	80.168930
+Coimbatore	Coimbatore Airport (Peelamedu Airport)	CJB	10.997350	77.068947
+Madurai	Madurai Airport	IXM	9.850660	78.096138
+Thanjavur (Tanjore)	Tanjore Air Force Base		10.664890	79.175171
+Tiruchirapalli (Trichy)	Tiruchirapalli Airport	TRZ	10.853050	78.587372
+Agartala	Agartala Airport (Singerbhil Airport)	IXA	23.909389	91.260406
+Dehradun	Jolly Grant Airport (Dehradun Airport)	DED	30.184349	78.147652
+Agra	Agra Airport (Kheria Airport) / Agra Air Force    Base[39]	AGR	27.172541	77.960114
+Kanpur	Kanpur Airport	KNU	26.423861	80.345993
+Lucknow	Amausi International Airport	LKO	26.741369	80.902061
+Varanasi	Varanasi Airport (Babatpur Airport)	VNS	25.449409	82.866028
+siligudi	Bagdogra Airport (Bagdogra Air Force Base)	IXB	26.721500	88.329483
+Kolkata (Calcutta)	Netaji Subhash Chandra Bose International    Airport	CCU	22.654301	88.454086
