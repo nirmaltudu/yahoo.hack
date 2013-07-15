@@ -50,9 +50,9 @@ var buildfn = function (loc, typ, date) {
 	    global_count++;
 	    if (global_count == 2) {
 	        fs.writeFileSync("client_data.json", JSON.stringify(return_val));
-      	   	airfare.getFare(return_val['route']['source']['nearest_airport']['code'],
-		        	           return_val['route']['destination']['nearest_airport']['code'], 
-					   date);
+      	   	//airfare.getFare(return_val['route']['source']['nearest_airport']['code'],
+		//        	           return_val['route']['destination']['nearest_airport']['code'], 
+		//			   date);
 	    }
 	};
 	return onComplete;
